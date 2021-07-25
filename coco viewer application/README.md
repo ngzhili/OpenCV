@@ -1,5 +1,7 @@
 # COCO Annotation Viewer
-coco_viewer.exe is an application that allows users to download and view coco.json annotation formats on their local machine as pictures.
+coco_viewer.exe is a python tkinter GUI application that allows users to download and view coco.json annotation formats on their local machine as pictures.
+Includes 2 functionalities: Download and save coco.json annotations overlayed on images. Image Viewer.
+
 Current support: Windows.
 
 ## Description
@@ -16,7 +18,7 @@ On the main application interface:
 - Select coco.json filepath that contains annotations in coco.json format
 - Select folder directory to store annotated images to be viewed
 
-- Select folder directory to store annotated images to be viewed
+- Select folder directory to be viewed
   - New window will pop up to view annotated images
 
 ## Contributing
