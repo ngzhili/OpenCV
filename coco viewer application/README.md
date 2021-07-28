@@ -18,8 +18,8 @@ Image Viewer Interface on new window:
 <img src = "README Images/image_viewer_demo_2.JPG">
 
 # Installation
-No external library packages needed to be installed.
-## Steps:
+Note: No external library packages needed to be installed.
+## Steps
 1. Download and install coco viewer application folder on your local machine. 
 2. Extract all files in .zip. 
 3. Double click on coco_viewer.exe application. Application should being launching.
