@@ -40,7 +40,7 @@ Open to Contributions.
 - pycocotools API was used and modified for this application
 
 # License
-MIT![MIT](LICENSE.md)
+![MIT](LICENSE.md)
 
 # Project status
 Ongoing.
