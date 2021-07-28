@@ -8,11 +8,11 @@ Two Main Functionalities:
 
 # Visuals
 Main Page for application:
-![image_0](README Images/main.jpeg)
+![image_0](./README Images/main.jpeg)
 
 Image Viewer Interface on new window:
-![image_1](README Images/image_viewer_demo_1.jpeg)
-![image_2](README Images/image_viewer_demo_2.jpeg)
+![image_1](./README Images/image_viewer_demo_1.jpeg)
+![image_2](./README Images/image_viewer_demo_2.jpeg)
 
 # Installation
 No external library packages needed to be installed.
