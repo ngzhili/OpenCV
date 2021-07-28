@@ -3,7 +3,7 @@ A python Tkinter GUI Application to view coco annotations on your local machine 
 
 # Description
 Two Main Functionalities:
-1. Create a masks of bounding box and segmentation object classes on your image dataset (supports only .jpg, .jpeg, .png, .JPG, .JPEG , .PNG image file types) with annotations in coco.json format. Downloads these annotated images as .JPG to selected inbuilt folder or specified local directory.
+1. Create a masks of bounding box and segmentation object classes on your image dataset (supports only .jpg, .jpeg, .png, .JPG, .JPEG , .PNG image file types) with annotations in coco.json format. Downloads these annotated images in the same input image file type to selected inbuilt folder or specified local directory.
 2. Image Viewer to view your downloaded masked images on a new window.
 
 # Visuals
