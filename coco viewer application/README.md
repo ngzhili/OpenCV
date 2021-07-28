@@ -1,5 +1,5 @@
 # COCO Viewer Application
-A python Tkinter GUI Application to view coco annotations on your local machine easily. Support Windows only.
+A python Tkinter GUI Application to view coco annotations on your local machine easily. Currently only support Windows.
 
 # Description
 Two Main Functionalities:
