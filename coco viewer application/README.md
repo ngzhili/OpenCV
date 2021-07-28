@@ -8,11 +8,14 @@ Two Main Functionalities:
 
 # Visuals
 Main Page for application:
-![](README Images/main.JPG)
+
+<img src = "README Images/main.JPG">
 
 Image Viewer Interface on new window:
-![](README Images/image_viewer_demo_1.JPG)
-![](README Images/image_viewer_demo_2.JPG)
+
+<img src = "README Images/image_viewer_demo_1.JPG">
+
+<img src = "README Images/image_viewer_demo_2.JPG">
 
 # Installation
 No external library packages needed to be installed.
@@ -37,7 +40,7 @@ Open to Contributions.
 - pycocotools API was used and modified for this application
 
 # License
-MIT
+MIT![MIT](LICENSE.md)
 
 # Project status
 Ongoing.
